@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . /app
 
 # Kompilasi file Java
-RUN javac BilanganKelipatan.java
+RUN javac ForKelipatan1C26.java
 
 # Tentukan perintah untuk menjalankan aplikasi
 CMD ["java", "Bilangan Kelipatan"]
