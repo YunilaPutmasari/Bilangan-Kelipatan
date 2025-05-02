@@ -11,4 +11,4 @@ COPY . /app
 RUN javac ForKelipatan1C26.java
 
 # Tentukan perintah untuk menjalankan aplikasi
-CMD ["java", "Bilangan Kelipatan"]
+CMD ["java", "ForKelipatan1C26"]
